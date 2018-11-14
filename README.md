@@ -12,5 +12,5 @@ Track your PRs and PRs you are involved
     1. You should use something like [envchain](https://github.com/sorah/envchain) for enhanced security.
     2. Note that you don't need to provide your actual password, you can [create a personal token](https://github.com/settings/tokens). 
     3. If you have 2FA enabled then a personal token is your only option.    
-4. Run it with `prs` (if using envchain then you should do `envchain github prs`, where `github` is the namespace for your github credentials on envchain. You can name it `potato` if you like). 
+4. Run it with `prs` (if using envchain then you should do `envchain github prs`, where `github` is the namespace for your github credentials on envchain (you may name it `potato` if you like). 
 
