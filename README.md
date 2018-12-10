@@ -6,7 +6,7 @@ Track your PRs and PRs you are involved
 
 ### Instructions
 
-1. Clone this repo
+1. Clone this repo (or run `npm install --global my-pull-requests` and skip to step 3)
 2. Get to the project folder and run `npm install -g .`.
 3. Set the following environment variables: `GITHUB_ORG`, `GITHUB_USER` and `GITHUB_PASSWORD`. 
     1. You should use something like [envchain](https://github.com/sorah/envchain) for enhanced security.
